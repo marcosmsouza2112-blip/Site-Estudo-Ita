@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rampa",
+      "hasCanvas": false,
+      "bodyTextLen": 892,
+      "bodyTextHash": "ff37aba039634a7cd32dfa019e4be1dccab1bb43f67c211468465d92fc539756",
+      "bodyTextPrefix": "Rampa 1ª FASE ITA Início Treino Banco Desempenho CADERNOS OFICIA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rampa",
+      "hasCanvas": false,
+      "bodyTextLen": 861,
+      "bodyTextHash": "b127276c2eccdb2822008457c23bb4dcbc019e7ff3cda30d05b9f4e41ac12457",
+      "bodyTextPrefix": "Rampa 1ª FASE ITA CADERNOS OFICIAIS 2019–2025 A rampa da primeir",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

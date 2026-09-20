@@ -1,0 +1,1 @@
+import{c as e,l as t}from"./index-Bx1QjC2y.js";import{n}from"./store-BE2O-2Xe.js";var r=t(e(),1);function i(){let[e,t]=(0,r.useState)(!1);return(0,r.useEffect)(()=>{Promise.resolve(n.persist.rehydrate()).finally(()=>t(!0))},[]),e}export{i as t};
